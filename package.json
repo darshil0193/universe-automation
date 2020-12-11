@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dpatel02/universe-automation.git"
+    "url": "git+https://github.com/darshil0193/universe-automation.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dpatel02/universe-automation/issues"
+    "url": "https://github.com/darshil0193/universe-automation/issues"
   },
-  "homepage": "https://github.com/dpatel02/universe-automation#readme",
+  "homepage": "https://github.com/darshil0193/universe-automation#readme",
   "dependencies": {}
 }
